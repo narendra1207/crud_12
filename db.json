@@ -1,0 +1,122 @@
+{
+  "productlist": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand ",
+      "price": 130,
+      "comment": "fresh Mango",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Moto",
+      "category": "Electronics",
+      "freshness": "Second Hand ",
+      "price": 6500,
+      "comment": "Choose your brand",
+      "date": "2022-12-19T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Nokia",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 999,
+      "comment": "Good Products ",
+      "date": "2022-12-13T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Brand New ",
+      "price": 100,
+      "comment": "Orange have vitamin C",
+      "date": "2022-11-30T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Potato",
+      "category": "Vegetables",
+      "freshness": "Brand New ",
+      "price": 12,
+      "comment": "Vegetables",
+      "date": "2022-12-07T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Mobile ",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 999,
+      "comment": "Good ",
+      "date": "2023-01-01T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "Blutooth",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 43,
+      "comment": "Headphones",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Blutooth",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 43,
+      "comment": "Headphones",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Blutooth",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 43,
+      "comment": "Headphones",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Blutooth",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 43,
+      "comment": "Headphones",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Blutooth",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 43,
+      "comment": "Headphones",
+      "date": "2022-12-29T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "aaaaa",
+      "category": "Electronics",
+      "freshness": "Brand New ",
+      "price": 123,
+      "comment": "sdfghkl;",
+      "date": "2023-02-12T18:30:00.000Z",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
